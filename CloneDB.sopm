@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<otrs_package version="1.0">
+<package version="1.0">
     <Name>CloneDB</Name>
     <Version>7.3.3</Version>
-    <Framework>7.3.x</Framework>
+    <Framework>7.5.x</Framework>
     <Vendor>Znuny GmbH</Vendor>
     <URL>https://www.znuny.org/</URL>
     <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
@@ -130,4 +130,4 @@
 
     ]]></IntroUpgrade>
     <PackageMerge Name="OTRSCloneDB" TargetVersion="6.5.0"/>
-</otrs_package>
+</package>
